@@ -1,0 +1,28 @@
+<!doctype html>  <!-- index.html -->
+<html><head>
+ <meta charset="utf-8"/>
+ <meta name="viewport" centent="width=device-width,initial-sacle=1"/>
+ <title> 12월 6일 </title>
+ <style>
+ a:link {color:blue; text-decoration:none;} a:visited {color:purple; text-decoration:none;}
+ a:hover { text-decortaion:underline;} a:active {color:red; text-decoration:none;}
+ </style></head>
+<body>
+<h1> 2022년 12월 6일 </h3>
+ <ul><hr/>
+ <li> 2022-12-06 </li>
+ <ol>
+  <li><a href="https://rlarudqls.github.io/java study/src/ArrayArgumentTest.java">ArrayArgumentTest</a></li>
+  <li><a href="https://rlarudqls.github.io/java study/src/AssignmentDemo.java">AssignmentDemo</a></li>
+  <li><a href="https://rlarudqls.github.io/java study/src/Circle.java">Circle</a></li>
+  <li><a href="https://rlarudqls.github.io/java study/src/CompLogicDemo.java">CompLogicDemo</a></li>
+  <li><a href="https://rlarudqls.github.io/java study/src/DogTest.java">DogTest</a></li>
+  <li><a href="https://rlarudqls.github.io/java study/src/InnerTest.java">InnerTest</a></li>
+  <li><a href="https://rlarudqls.github.io/java study/src/MovieArrayTest.java">MovieArrayTest</a></li>
+  <li><a href="https://rlarudqls.github.io/java study/src/Television.java">Television</a></li>
+  <li><a href="https://rlarudqls.github.io/java study/src/grade_10.java">grade_10</a></li>
+  <li><a href="https://rlarudqls.github.io/java study/src/plus999.java">plus999</a></li>
+  <li><a href="https://rlarudqls.github.io/java study/src/prime_number_between2and100.java">prime_number_between2and100</a></li>
+ </ol>
+  <hr/></ul>
+</body></html>
