@@ -45,10 +45,12 @@
 		<div class="top_area">
 			<div class="logo_area">
 				<h1>logo area</h1>
-				<a href="/main"><img src="resources/img/kkblogo.png"></a>
+				<a href="/main">
+				<img src="resources/img/kkblogo.png" alt="Logo"></a>
 			</div>
 			<div class="search_area">
 				<h1>Search area</h1>
+				<img src="resources/img/kkblogo.png" alt="Search">
 			</div>
 			<div class="login_area">
 				<!-- 로그인 하지 않은 상태 -->
@@ -68,11 +70,13 @@
 			</div>
 			<div class="clearfix"></div>			
 		</div>
-		<div class="navi_bar_area">
+		<div class="navi_bar_area" >
 			<h1>navi area</h1>
+			<img src="resources/img/kkblogo.png" alt="Navigation">>
 		</div>
 		<div class="content_area">
 			<h1>content area</h1>
+			<img src="resources/img/kkblogo.png" alt="Content">
 		</div>
 		<!-- Footer 영역 -->
         <div class="footer_nav">

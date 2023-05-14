@@ -19,7 +19,7 @@ public class AuthorServiceImpl implements AuthorService {
 	@Autowired
 	AuthorMapper authorMapper;
 
-	/* 작가 등록 */
+	/* 판매자 등록 */
 	@Override
 	public void authorEnroll(AuthorVO author) throws Exception {
 		
@@ -27,7 +27,7 @@ public class AuthorServiceImpl implements AuthorService {
 		
 	}	
 
-	/* 작가 목록 */
+	/* 판매자 목록 */
 	@Override
 	public List<AuthorVO> authorGetList(Criteria cri) throws Exception {
 		
@@ -36,17 +36,18 @@ public class AuthorServiceImpl implements AuthorService {
 		return authorMapper.authorGetList(cri);
 	}	
 	
-	/* 작가 총 수 */
+	/* 판매자 총 수 */
 	@Override
 	public int authorGetTotal(Criteria cri) throws Exception {
 		log.info("(service)authorGetTotal()......." + cri);
 		return authorMapper.authorGetTotal(cri);
 	}
 
+	/* 판매자 상세 페이지 */
 	@Override
 	public AuthorVO authorGetDetail(int authorId) throws Exception {
-		// TODO Auto-generated method stub
-		return null;
+		log.info("authorGetDetail........" + authorId);
+		return authorMapper.authorGetDetail(authorId);
 	}
 
 	@Override

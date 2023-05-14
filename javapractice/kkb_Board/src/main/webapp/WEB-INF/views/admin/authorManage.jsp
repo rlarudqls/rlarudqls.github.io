@@ -126,7 +126,7 @@ $(document).ready(function(){
 			return;
 		}
 		
-		alert("작가'${enroll_result}'을 등록하였습니다.");
+		alert("판매자'${enroll_result}'을 등록하였습니다.");
 		
 	}
 	

@@ -37,8 +37,8 @@
                     			<div class="form_section_content">
                     				<select name="nationId">
                     					<option value="none" selected>=== 선택 ===</option>
-                    					<option value="01">국내판매자</option>
-                    					<option value="02">국외판매자</option>
+                    					<option value="01">국내 판매자</option>
+                    					<option value="02">국외 판매자</option>
                     				</select>
                     				<span id="warn_nationId">소속 국가를 선택해주세요.</span>
                     			</div>
