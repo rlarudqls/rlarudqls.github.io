@@ -4,6 +4,21 @@
 Developers who create beneficial social values   
 A developer who thinks, researches, creates, and connects to practical realization by web
 
+🛠️ **Stacks**
+
+![Back-End](https://img.shields.io/badge/Back--End-Java%20%7C%20C%20%7C%20Spring%20Framework%20%7C%20MyBatis-007396?style=flat-square)
+![Front-End](https://img.shields.io/badge/Front--End-HTML%20%7C%20CSS%20%7C%20JavaScript%20%7C%20jQuery%20%7C%20Bootstrap%20%7C%20Vue.js-E34F26?style=flat-square)
+![Database](https://img.shields.io/badge/Database-MySQL%20%7C%20MariaDB%20%7C%20Oracle%20%7C%20AWS%20RDS-4479A1?style=flat-square)
+![Testing & Deployment](https://img.shields.io/badge/Testing%20%26%20Deployment-JUnit%20%7C%20Maven%20%7C%20Gradle%20%7C%20Docker-0769AD?style=flat-square)
+
+💪🏼 **Tools**
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=flat-square&logo=Bootstrap&logoColor=white)
 
 🛠️ Stacks
 
