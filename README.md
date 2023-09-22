@@ -1,100 +1,71 @@
-# Hi, I'm Kyeongbin KIM! 👋
+<h1 align="center">Hi, I'm Kyeongbin KIM! 👋</h1>
 
-## About Me
+<h3 align="center">Web Developer / Data Engineer</h3>
 
-I'm a Web Developer and Data Engineer who strives to create practical solutions that deliver social value.
+<p align="center">Developers who create beneficial social values</p>
+<p align="center">A developer who thinks, researches, creates, and connects to practical realization by web</p>
 
-### Stacks
+<h2 align="center">About Me</h2>
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
+<p align="center">I'm a Web Developer and Data Engineer who strives to create practical solutions that deliver social value.</p>
 
-#### Main Stacks
+<h2 align="center">Stacks</h2>
 
-##### Back-End
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
-![Spring Framework](https://img.shields.io/badge/Spring%20Framework-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-007396?style=flat-square&logo=Java&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Back--End-Java%20%7C%20Spring%20Framework%20%7C%20JSP-007396?style=flat-square&logo=Java&logoColor=white" alt="Back-End">
+  <img src="https://img.shields.io/badge/Front--End-HTML%20%7C%20CSS%20%7C%20JavaScript-E34F26?style=flat-square&logo=HTML5&logoColor=white" alt="Front-End">
+  <img src="https://img.shields.io/badge/Database-MySQL%20%7C%20AWS%20RDS-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="Database">
+  <img src="https://img.shields.io/badge/Testing%20%26%20Deployment-Maven%20%7C%20JUnit-0769AD?style=flat-square&logo=Java&logoColor=white" alt="Testing & Deployment">
+</p>
 
-##### Front-End
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+<h2 align="center">Sub Stacks</h2>
 
-##### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![AWS RDS](https://img.shields.io/badge/AWS%20RDS-FF9900?style=flat-square&logo=Amazon%20AWS&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Back--End-C%20%7C%20MyBatis-007396?style=flat-square&logo=C&logoColor=black" alt="Back-End">
+  <img src="https://img.shields.io/badge/Front--End-Bootstrap%20%7C%20JavaScript%20%7C%20Vue.js-E34F26?style=flat-square&logo=Bootstrap&logoColor=white" alt="Front-End">
+  <img src="https://img.shields.io/badge/Database-MariaDB%20%7C%20Oracle-4479A1?style=flat-square&logo=MariaDB&logoColor=white" alt="Database">
+  <img src="https://img.shields.io/badge/Testing%20%26%20Deployment-Gradle%20%7C%20Docker-0769AD?style=flat-square&logo=Docker&logoColor=white" alt="Testing & Deployment">
+</p>
 
-##### Testing & Deployment
-![Maven](https://img.shields.io/badge/Maven-0769AD?style=flat-square&logo=Apache%20Maven&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-007396?style=flat-square&logo=Java&logoColor=white)
+<h2 align="center">Tools</h2>
 
-    </td>
-    <td valign="top" width="50%">
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="Spring">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white" alt="Eclipse IDE">
+  <img src="https://img.shields.io/badge/GIT-181717?style=flat-square&logo=GIT&logoColor=white" alt="GIT">
+</p>
 
-#### Sub Stacks
+<h2 align="center">Sub Tools</h2>
 
-##### Back-End
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black)
-![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=Apache%20MyBatis&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" alt="Visual Studio Code">
+  <img src="https://img.shields.io/badge/Ubuntu%20Linux-E95420?style=flat-square&logo=Ubuntu&logoColor=white" alt="Ubuntu Linux">
+  <img src="https://img.shields.io/badge/Bootstrap-000000?style=flat-square&logo=Bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" alt="Node.js">
+</p>
 
-##### Front-End
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
+<p align="center">
+  <a href="https://velog.io/@kkb3431" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" alt="Velog"></a>
+  <a href="mailto:kyeongbin3431@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://rlarudqls.github.io/Record.html" target="_blank"><img src="https://img.shields.io/badge/Diary-blue?style=for-the-badge" alt="Diary"></a>
+</p>
 
-##### Database
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)
+<h2 align="center">Achievements</h2>
 
-##### Testing & Deployment
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+<p align="center">
+  Algorithm Silver Level:
+  <a href="https://solved.ac/kkb3431/" target="_blank"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kkb3431" alt="Solved.ac Profile"></a>
+</p>
 
-    </td>
-  </tr>
-</table>
+<p align="center">
+  Programmers Lv.2
+</p>
 
-### Tools
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer" alt="Footer">
+</p>
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-
-#### Main Tools
-
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white)
-![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white)
-![GIT](https://img.shields.io/badge/GIT-181717?style=flat-square&logo=GIT&logoColor=white)
-
-    </td>
-    <td valign="top" width="50%">
-
-#### Sub Tools
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
-![Ubuntu Linux](https://img.shields.io/badge/Ubuntu%20Linux-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=flat-square&logo=Bootstrap&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-
-    </td>
-  </tr>
-</table>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlarudqls)](https://github.com/rlarudqls/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlarudqls)](https://github.com/rlarudqls/github-readme-stats)
-
-## 🐱 About Me
-
-[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@kkb3431)](https://velog.io/@kkb3431)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kyeongbin3431@gmail.com)](kyeongbin3431@gmail.com)
-[![Diary](https://img.shields.io/badge/Diary-blue?style=for-the-badge)](https://rlarudqls.github.io/Record.html)
-
-## 🏅 Achievements
-
-- Algorithm Silver Level
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkb3431)](https://solved.ac/kkb3431/)
-- Programmers Lv.2
-
-![Footer](https://capsule-render.vercel
+<p align="center">
+  There are many parts of the project and development source that I have been unable to disclose due to internal confidentiality and the organizer's pledge of confidentiality. Please understand.
+</p>
