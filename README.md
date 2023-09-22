@@ -54,7 +54,6 @@
 <h2 align="center">Achievements</h2>
 
 <p align="center">
-  Algorithm Silver Level:
   <a href="https://solved.ac/kkb3431/" target="_blank"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kkb3431" alt="Solved.ac Profile"></a>
 </p>
 
