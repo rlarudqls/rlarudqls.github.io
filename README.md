@@ -4,29 +4,33 @@
 Developers who create beneficial social values   
 A developer who thinks, researches, creates, and connects to practical realization by web
 
-🛠️ **Stacks**
+#### Main Stacks
 
-![Back-End](https://img.shields.io/badge/Back--End-Java%20%7C%20C%20%7C%20Spring%20Framework%20%7C%20MyBatis-007396?style=flat-square)
-![Front-End](https://img.shields.io/badge/Front--End-HTML%20%7C%20CSS%20%7C%20JavaScript%20%7C%20jQuery%20%7C%20Bootstrap%20%7C%20Vue.js-E34F26?style=flat-square)
-![Database](https://img.shields.io/badge/Database-MySQL%20%7C%20MariaDB%20%7C%20Oracle%20%7C%20AWS%20RDS-4479A1?style=flat-square)
-![Testing & Deployment](https://img.shields.io/badge/Testing%20%26%20Deployment-JUnit%20%7C%20Maven%20%7C%20Gradle%20%7C%20Docker-0769AD?style=flat-square)
+![Back-End](https://img.shields.io/badge/Back--End-Java%2C%20Spring%20Framework%2C%20JSP-007396?style=flat-square)
+![Front-End](https://img.shields.io/badge/Front--End-HTML%2C%20CSS%2C%20JavaScript-E34F26?style=flat-square)
+![Database](https://img.shields.io/badge/Database-MySQL%2C%20AWS%20RDS-4479A1?style=flat-square)
+![Testing & Deployment](https://img.shields.io/badge/Testing%20%26%20Deployment-Maven%2C%20JUnit-0769AD?style=flat-square)
 
-💪🏼 **Tools**
+#### Sub Stacks
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
+![Back-End](https://img.shields.io/badge/Back--End-C%2C%20MyBatis-007396?style=flat-square)
+![Front-End](https://img.shields.io/badge/Front--End-Bootstrap%2C%20JavaScript%2C%20Vue.js-E34F26?style=flat-square)
+![Database](https://img.shields.io/badge/Database-MariaDB%2C%20Oracle-4479A1?style=flat-square)
+![Testing & Deployment](https://img.shields.io/badge/Testing%20%26%20Deployment-Gradle%2C%20Docker-0769AD?style=flat-square)
+
+#### Main Tools
+
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-181717?style=flat-square&logo=GIT&logoColor=white)
+
+#### Sub Tools
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
+![Ubuntu Linux](https://img.shields.io/badge/Ubuntu%20Linux-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=flat-square&logo=Bootstrap&logoColor=white)
 
-🛠️ Stacks
-
- <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/oracle-0769AD?style=flat-square&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">
-
-💪🏼 Tools 
-
- <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/> <img src="https://img.shields.io/badge/bootstrap-000000?style=flat-square&logo=bootstrap IDEA&logoColor=white"/> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlarudqls)](https://github.com/rlarudqls/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlarudqls)](https://github.com/rlarudqls/github-readme-stats)
