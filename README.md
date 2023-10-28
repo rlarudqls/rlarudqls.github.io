@@ -51,19 +51,6 @@
   <a href="https://rlarudqls.github.io/Record.html" target="_blank"><img src="https://img.shields.io/badge/Diary-blue?style=for-the-badge" alt="Diary"></a>
 </p>
 
-<h2 align="center">Achievements</h2>
-
-<p align="center">
-  <a href="https://solved.ac/kkb3431/" target="_blank"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kkb3431" alt="Solved.ac Profile"></a>
-</p>
-
-<p align="center">
-  Programmers Lv.2
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer" alt="Footer">
-</p>
 
 <p align="center">
   There are many parts of the project and development source that I have been unable to disclose due to internal confidentiality and the organizer's pledge of confidentiality. Please understand.
